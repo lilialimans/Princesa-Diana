@@ -1,0 +1,92 @@
+
+* {
+  margin: 0;
+}
+
+.container-superior {
+}
+
+.p-superior{
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #111111;
+  text-align: right;
+
+  background-color: cadetblue;
+  border: black 3px solid;
+  padding: 20px;
+}
+/* titulobiografia */
+
+.titulo-bio {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  text-align: center;
+  font-weight: 500;
+  font-size: 96px;
+  color: #111111;
+}
+
+.titulo-secundario {
+  color: darkblue;
+  font-size: 35px;
+  text-align: center;
+
+}
+
+/* fotoprincipalexportada*/
+.imagemheader {
+  display: block;
+  margin: auto;
+}
+  /* DianaFrancesSpencer */
+  .DianaFrancesSpencer {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+  text-align: center;
+  color: #111111;
+}
+  /* pheader */
+  .pheader {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  display: flex;
+  align-items:center;
+  text-align: center;
+  color: #111111;
+}
+
+
+/* princesadiferença
+.princesadiferença {
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 110px;
+color: #FFFFFF;
+}
+
+.pobjetivos {
+position: relative;
+width: 665px;
+height: 294px;
+left: 676px;
+top: 123px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+*/
